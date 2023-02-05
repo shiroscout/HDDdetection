@@ -8,6 +8,9 @@ https://github.com/linux-nvme/nvme-cli
 
 
 TOOLS:
+
 https://www.tecmint.com/linux-disk-scanning-tools/
 
+Gnome Disk Utility:
 
+https://github.com/GNOME/gnome-disk-utility
